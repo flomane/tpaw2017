@@ -10,5 +10,5 @@ console.log('searchCity', 'hello from'+_city);
 }
 function searchLatlng(_lat,_lng){
 console.log(searchlatlng,'hello from'+_lat+','lng);
-//a completer dans la suite
+//à completer dans la suite
 }
